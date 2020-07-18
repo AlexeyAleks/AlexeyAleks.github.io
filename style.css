@@ -70,3 +70,8 @@ section {
 .submit:hover {
     background-image: linear-gradient(rgb(76, 77, 76), rgb(93, 95, 93));
 }
+
+p[id=footer] {
+    margin: 0px;
+    font-size: 14px;
+}
